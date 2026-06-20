@@ -27,6 +27,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| TikTok | [Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity) | <a href="https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 20, 2026 |
 | Amazon | [Sort Bug Report Frequencies](https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies) | <a href="https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 19, 2026 |
 | Amazon | [Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes) | <a href="https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 19, 2026 |
 | Amazon | [Select Least Resource Tasks](https://www.fastprep.io/problems/amazon-select-least-resource-tasks) | <a href="https://www.fastprep.io/problems/amazon-select-least-resource-tasks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 09, 2026 |
