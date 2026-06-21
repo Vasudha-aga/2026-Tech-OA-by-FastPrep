@@ -27,6 +27,8 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| HSBC | [Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | <a href="https://www.fastprep.io/problems/hsbc-find-id-of-soldier"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 21, 2026 |
+| HSBC | [Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | <a href="https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 21, 2026 |
 | TikTok | [Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity) | <a href="https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 20, 2026 |
 | TikTok | [Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string) | <a href="https://www.fastprep.io/problems/tiktok-construct-wdl-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 19, 2026 |
 | TikTok | [Find Sum Pairs](https://www.fastprep.io/problems/tiktok-find-sum-pairs) | <a href="https://www.fastprep.io/problems/tiktok-find-sum-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 19, 2026 |
