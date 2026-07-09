@@ -1,30 +1,83 @@
-# 2026 Tech Internship/Fulltime OAs and Interview Questions
+<a id="readme-top"></a>
 
-⭐ This board is aiming to help you centralize the Online Assessments / Interview Questions from different companies. It is updated constantly to make sure you have the most update to date OAs.
-
-🍊 FastPrep question bank now contains ~1400 actual interview questions. 
-
-🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs / interview questions up to date 😳
-
-🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
-
-🫶 Saw a fresh OA or interview question? Share the source with us by opening an issue or reaching out to Jane on Discord, and we’ll turn it into a friendly practice problem for the whole community. Many thanks in advance for helping out!
-
-📝 Accenture, Adobe, Agoda, Airbnb, Applied Intuition, Airtable, Akuna, Alarm.com, Amazon, Anthropic, Apple, Arista Networks, Atlassian, Barclays, Blackrock, Blinkit, Bloomberg, BNP, Box, Braze, BNY Mellon, Canva, Capital One, Circle, Cisco, Citadel, Cloudflare, Codeium, Commvault, Confluent, Crusoe, Cvent, Databricks, Datadog, DE Shaw, Deloitte, Deutsche Bank, DoorDash, DRW, DTCC, Eat Club, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, Fortinet, GE Vernova, Geico, Geneva Trading, General Motors, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, Hudson River Trading, HSBC, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Mathworks, McKinsey, Mercor, Meta, Meesho, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nvidia, Nutanix, Observer.AI, Okta, Oscar Health, Onix, OpenAI, Optiver, Oura, Oracle, Palantir, Patreon, Paypal, PayPay, Pinterest, Point 72, Publicis Sapients, QRT, Quora, Ramp, Reddit, Rippling, Roblox, Rubrik, Rurik, Salesforce, Safe Security, Samsung, SavantLabs, Scale AI, ServiceNow, Shopify, Sig, Snowflake, Sofi, Squarepoint, Stripe, Superhuman, Swiggy, TCS, Tesla, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walmart, Wayfair, Waymo, Walleye Capital, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZoloStays, Zolando, Zomato / Eternal, ZipRecruiter, Zopsmart, Zorvyn, Zscaler :)
- 
---- 
 <div align="center">
-	<h3>🐳 Join the community for more OA / interview questions updates 🥑</h3>
-  <div>
-      <a href="https://discord.gg/kSbWpSGUTH">
-      <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
-      </a>
-  </div> 
+
+# 2026 Tech OA & Interview Question Tracker
+
+Curated Online Assessment and interview-question tracker for internship, new-grad, and full-time technical recruiting.
+
+<a href="https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers">
+  <img src="https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep.svg?style=social&label=Star" alt="GitHub stars">
+</a>
+<a href="https://github.com/perixtar/2026-Tech-OA-by-FastPrep/forks">
+  <img src="https://img.shields.io/github/forks/perixtar/2026-Tech-OA-by-FastPrep.svg?style=social&label=Fork" alt="GitHub forks">
+</a>
+<a href="https://www.fastprep.io">
+  <img src="https://img.shields.io/badge/Practice-FastPrep-orange" alt="Practice on FastPrep">
+</a>
+<a href="https://discord.gg/kSbWpSGUTH">
+  <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white" alt="Join Discord">
+</a>
+
+[Browse OAs](#oa-table) · [Contribute](#contributing) · [Community](#community) · [FastPrep](https://www.fastprep.io)
+
 </div>
 
 ---
 
-[⬇️ Jump to Bottom ⬇️](https://github.com/perixtar/2024-Tech-OA#bottom)
+## Why This Repo?
+
+- **One searchable board**: 1,300+ OA and interview-question entries across 160+ companies.
+- **Practice-ready links**: Each row points to a FastPrep practice page when available.
+- **Fresh recruiting signal**: Update dates help you focus on recently reported questions.
+- **Community maintained**: Students and candidates can submit new OAs, corrections, and missing practice links.
+
+FastPrep's question bank contains ~1,400 actual interview questions. If this repo saves you time, starring and watching it helps more candidates find the updates.
+
+## Quick Start
+
+1. Use `Cmd/Ctrl + F` to search for a company, role keyword, or question title.
+2. Open the OA question link to inspect the problem.
+3. Use the **Practice** button to train on FastPrep.
+4. Watch the repo to follow new additions.
+
+## Repository Map
+
+| Section | Use it for |
+| --- | --- |
+| [OA table](#oa-table) | Browse company questions, practice links, and update dates |
+| [Contributing](#contributing) | Submit a fresh OA, correction, or missing link |
+| [Community](#community) | Join Discord for updates and discussion |
+| [FastPrep](https://www.fastprep.io) | Practice the questions in a coding environment |
+
+## Contributing
+
+Saw a fresh OA or interview question? Open a [GitHub issue](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or reach out on Discord with the company, role or season, question title, date seen, and source context.
+
+Please do not submit confidential screenshots, private recruiter messages, or full proprietary problem statements. Short summaries and public/source-safe references are enough for maintainers to verify and turn the report into a practice entry.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full submission checklist.
+
+## Community
+
+<div align="center">
+  <a href="https://discord.gg/kSbWpSGUTH">
+    <img src="https://i.imgur.com/glICka0.png" width="300" alt="Join the FastPrep Discord community">
+  </a>
+</div>
+
+<details>
+<summary><b>Covered companies</b> (160+)</summary>
+
+Accenture, Adobe, Agoda, Airbnb, Applied Intuition, Airtable, Akuna, Alarm.com, Amazon, Anthropic, Apple, Arista Networks, Atlassian, Barclays, Blackrock, Blinkit, Bloomberg, BNP, Box, Braze, BNY Mellon, Canva, Capital One, Circle, Cisco, Citadel, Cloudflare, Codeium, Commvault, Confluent, Crusoe, Cvent, Databricks, Datadog, DE Shaw, Deloitte, Deutsche Bank, DoorDash, DRW, DTCC, Eat Club, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, Fortinet, GE Vernova, Geico, Geneva Trading, General Motors, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, Hudson River Trading, HSBC, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Mathworks, McKinsey, Mercor, Meta, Meesho, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nvidia, Nutanix, Observer.AI, Okta, Oscar Health, Onix, OpenAI, Optiver, Oura, Oracle, Palantir, Patreon, Paypal, PayPay, Pinterest, Point 72, Publicis Sapients, QRT, Quora, Ramp, Reddit, Rippling, Roblox, Rubrik, Rurik, Salesforce, Safe Security, Samsung, SavantLabs, Scale AI, ServiceNow, Shopify, Sig, Snowflake, Sofi, Squarepoint, Stripe, Superhuman, Swiggy, TCS, Tesla, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walmart, Wayfair, Waymo, Walleye Capital, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZoloStays, Zolando, Zomato / Eternal, ZipRecruiter, Zopsmart, Zorvyn, Zscaler.
+
+</details>
+
+---
+
+<a id="oa-table"></a>
+
+## OA Table
 
 
 | Company | OA Question | Practice (Beta) | Updated Time |
@@ -1373,5 +1426,13 @@
 | Safe Security | [Maximum Subarray Sum](https://www.fastprep.io/problems/safe-security-maximum-subarray-sum) | <a href="https://www.fastprep.io/problems/safe-security-maximum-subarray-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2026 |
 | Blinkit | [Unique Supersequence Merge](https://www.fastprep.io/problems/blinkit-unique-supersequence-merge) | <a href="https://www.fastprep.io/problems/blinkit-unique-supersequence-merge"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2026 |
 <a id="bottom"></a>
-## Aloha~ Thank you for walking this path with us. 🧡<br>
-⬆️ [Back to Top](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file#20242025-tech-internshipfulltime-oas) ⬆️
+
+---
+
+<div align="center">
+
+## Thanks for using the FastPrep OA Tracker
+
+[Back to top](#readme-top) · [Contribute](#contributing) · [Join Discord](https://discord.gg/kSbWpSGUTH)
+
+</div>
