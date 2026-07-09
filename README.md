@@ -96,7 +96,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 ### Join the community for OA drops, interview intel, and prep talk 🥑
 
 <a href="https://discord.gg/kSbWpSGUTH">
-<img src="https://i.imgur.com/glICka0.png" width="300" alt="Join the FastPrep Discord community">
+<img src="assets/discord-button.svg" width="300" alt="Join the FastPrep Discord community">
 </a>
 
 </div>
