@@ -2,83 +2,109 @@
 
 <div align="center">
 
-# 2026 Tech OA & Interview Question Tracker
+# ⚡ 2026 Tech Internship / Full-Time OA & Interview Questions
 
-Curated Online Assessment and interview-question tracker for internship, new-grad, and full-time technical recruiting.
+**Real online assessments and interview questions from 160+ companies — tracked constantly, practice-ready.**
 
-<a href="https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers">
-  <img src="https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep.svg?style=social&label=Star" alt="GitHub stars">
-</a>
-<a href="https://github.com/perixtar/2026-Tech-OA-by-FastPrep/forks">
-  <img src="https://img.shields.io/github/forks/perixtar/2026-Tech-OA-by-FastPrep.svg?style=social&label=Fork" alt="GitHub forks">
-</a>
-<a href="https://www.fastprep.io">
-  <img src="https://img.shields.io/badge/Practice-FastPrep-orange" alt="Practice on FastPrep">
-</a>
-<a href="https://discord.gg/kSbWpSGUTH">
-  <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white" alt="Join Discord">
-</a>
+<br/>
 
-[Browse OAs](#oa-table) · [Contribute](#contributing) · [Community](#community) · [FastPrep](https://www.fastprep.io)
+[![Last update](https://img.shields.io/github/last-commit/perixtar/2026-Tech-OA-by-FastPrep/master?style=for-the-badge&label=LAST%20UPDATE&color=00C853)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=for-the-badge&logo=github&color=FFB300&label=STARS)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers)
+[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-1%2C400%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
+[![Companies](https://img.shields.io/badge/COMPANIES-160%2B-2962FF?style=for-the-badge)](#coverage)
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSbWpSGUTH)
+
+<samp><a href="#how-it-works">how it works</a> · <a href="#coverage">coverage</a> · <a href="#question-bank">question bank</a> · <a href="#contribute">contribute</a> · <a href="#community">community</a></samp>
 
 </div>
+
+<br/>
+
+```console
+$ fastprep sync --season 2026
+[✓] indexed   1,300+ real OA & interview questions on this board
+[✓] tracked   160+ companies · Accenture → Zscaler
+[✓] cadence   updated multiple times a week
+[→] pro tip   hit ⭐ Star + 👁 Watch above to catch every new drop
+```
 
 ---
 
-## Why This Repo?
+<a id="how-it-works"></a>
 
-- **One searchable board**: 1,300+ OA and interview-question entries across 160+ companies.
-- **Practice-ready links**: Each row points to a FastPrep practice page when available.
-- **Fresh recruiting signal**: Update dates help you focus on recently reported questions.
-- **Community maintained**: Students and candidates can submit new OAs, corrections, and missing practice links.
+## ⚙️ How it works
 
-FastPrep's question bank contains ~1,400 actual interview questions. If this repo saves you time, starring and watching it helps more candidates find the updates.
-
-## Quick Start
-
-1. Use `Cmd/Ctrl + F` to search for a company, role keyword, or question title.
-2. Open the OA question link to inspect the problem.
-3. Use the **Practice** button to train on FastPrep.
-4. Watch the repo to follow new additions.
-
-## Repository Map
-
-| Section | Use it for |
+| Step | What to do |
 | --- | --- |
-| [OA table](#oa-table) | Browse company questions, practice links, and update dates |
-| [Contributing](#contributing) | Submit a fresh OA, correction, or missing link |
-| [Community](#community) | Join Discord for updates and discussion |
-| [FastPrep](https://www.fastprep.io) | Practice the questions in a coding environment |
+| 🔍 **Search** | <kbd>Ctrl</kbd> / <kbd>⌘</kbd> + <kbd>F</kbd> your company in the [question bank](#question-bank) below |
+| 📄 **Open** | every row links to the full question, rebuilt from real candidate reports |
+| 🧪 **Practice** | hit `Practice` to solve it on [FastPrep](https://www.fastprep.io) with an editor and test cases |
+| 🔔 **Stay ahead** | click `Watch` at the top of this page — new OAs land here first |
 
-## Contributing
+> 🙏 If this board saves you time, a ⭐ **star** helps other candidates find it — and keeps the update engine running.
 
-Saw a fresh OA or interview question? Open a [GitHub issue](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml) or reach out on Discord with the company, role or season, question title, date seen, and source context.
+<a id="coverage"></a>
 
-Please do not submit confidential screenshots, private recruiter messages, or full proprietary problem statements. Short summaries and public/source-safe references are enough for maintainers to verify and turn the report into a practice entry.
+## 📊 Coverage
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the full submission checklist.
+```text
+top tracked companies ──────────── snapshot · Jul 2026 ──
 
-## Community
+Amazon       ██████████████████████ 347
+IBM          █████ 81
+Google       █████ 78
+TikTok       ████ 64
+Microsoft    ███ 55
+Uber         ███ 48
+Salesforce   ███ 42
+Snowflake    ███ 40
+JP Morgan    ██ 32
+Cisco        ██ 31
 
-<div align="center">
-  <a href="https://discord.gg/kSbWpSGUTH">
-    <img src="https://i.imgur.com/glICka0.png" width="300" alt="Join the FastPrep Discord community">
-  </a>
-</div>
+… + 150 more companies in the table below ↓
+```
 
 <details>
-<summary><b>Covered companies</b> (160+)</summary>
+<summary><b>🏢 Full company list (160+) — click to expand</b></summary>
+<br/>
 
 Accenture, Adobe, Agoda, Airbnb, Applied Intuition, Airtable, Akuna, Alarm.com, Amazon, Anthropic, Apple, Arista Networks, Atlassian, Barclays, Blackrock, Blinkit, Bloomberg, BNP, Box, Braze, BNY Mellon, Canva, Capital One, Circle, Cisco, Citadel, Cloudflare, Codeium, Commvault, Confluent, Crusoe, Cvent, Databricks, Datadog, DE Shaw, Deloitte, Deutsche Bank, DoorDash, DRW, DTCC, Eat Club, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, Fortinet, GE Vernova, Geico, Geneva Trading, General Motors, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, Hudson River Trading, HSBC, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Mathworks, McKinsey, Mercor, Meta, Meesho, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nvidia, Nutanix, Observer.AI, Okta, Oscar Health, Onix, OpenAI, Optiver, Oura, Oracle, Palantir, Patreon, Paypal, PayPay, Pinterest, Point 72, Publicis Sapients, QRT, Quora, Ramp, Reddit, Rippling, Roblox, Rubrik, Rurik, Salesforce, Safe Security, Samsung, SavantLabs, Scale AI, ServiceNow, Shopify, Sig, Snowflake, Sofi, Squarepoint, Stripe, Superhuman, Swiggy, TCS, Tesla, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walmart, Wayfair, Waymo, Walleye Capital, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZoloStays, Zolando, Zomato / Eternal, ZipRecruiter, Zopsmart, Zorvyn, Zscaler.
 
 </details>
 
+<a id="contribute"></a>
+
+## 🛰️ Spotted a fresh OA?
+
+Feed the pipeline — we'll turn it into a practice problem for the whole community. 🫶
+
+- 🐛 **Open an issue** with the [OA submission template](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/issues/new?template=oa-submission.yml)
+- 💬 **Ping Jane on [Discord](https://discord.gg/kSbWpSGUTH)** with the company, question, and date seen
+
+Please keep it source-safe — no confidential screenshots or full proprietary statements; a short summary is enough. Full checklist in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+<a id="community"></a>
+
+## 🐳 Community
+
+<div align="center">
+
+### Join the community for OA drops, interview intel, and prep talk 🥑
+
+<a href="https://discord.gg/kSbWpSGUTH">
+<img src="https://i.imgur.com/glICka0.png" width="300" alt="Join the FastPrep Discord community">
+</a>
+
+</div>
+
 ---
 
 <a id="oa-table"></a>
+<a id="question-bank"></a>
 
-## OA Table
+## 🗂️ Question Bank
 
+<div align="right"><samp><a href="#bottom">⬇ jump to bottom</a></samp></div>
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
@@ -1431,8 +1457,12 @@ Accenture, Adobe, Agoda, Airbnb, Applied Intuition, Airtable, Akuna, Alarm.com, 
 
 <div align="center">
 
-## Thanks for using the FastPrep OA Tracker
+### 🧡 Aloha~ thank you for walking this path with us.
 
-[Back to top](#readme-top) · [Contribute](#contributing) · [Join Discord](https://discord.gg/kSbWpSGUTH)
+<samp><a href="#readme-top">⬆ back to top</a> · <a href="#contribute">contribute</a> · <a href="https://discord.gg/kSbWpSGUTH">discord</a></samp>
+
+<br/>
+
+Maintained with 🍊 by <a href="https://www.fastprep.io"><b>FastPrep</b></a> — powered by candidates like you.
 
 </div>
