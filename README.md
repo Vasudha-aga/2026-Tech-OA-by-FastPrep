@@ -2,7 +2,11 @@
 
 <div align="center">
 
-# ⚡ 2026 Tech Internship / Full-Time OA & Interview Questions
+<a href="https://www.fastprep.io">
+<img src="assets/fastprep-logo.png" width="88" alt="FastPrep" />
+</a>
+
+# 2026 Tech Internship / Full-Time OA & Interview Questions
 
 **Real online assessments and interview questions from 160+ companies — tracked constantly, practice-ready.**
 
