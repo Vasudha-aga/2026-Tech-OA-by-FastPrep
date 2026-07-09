@@ -1,0 +1,71 @@
+name: Fresh OA or interview question
+description: Share a new or corrected Online Assessment or interview question for the tracker.
+title: "[OA]: Company - question title"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the tracker fresh. Please share source-safe details only. Do not paste confidential screenshots, private recruiter messages, account-only assessment pages, or full proprietary problem statements.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      description: Which company is this OA or interview question from?
+      placeholder: Amazon
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role, location, and season
+      description: Add the role, location, and recruiting season if known.
+      placeholder: 2026 New Grad SDE, US
+    validations:
+      required: false
+  - type: input
+    id: question-title
+    attributes:
+      label: Question title
+      description: Use the title shown in the assessment or a short descriptive title.
+      placeholder: Minimum Grid Inconvenience
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Source-safe summary
+      description: Briefly describe the task without copying a full proprietary prompt.
+      placeholder: The problem asks candidates to minimize grid inconvenience after placing items under adjacency constraints.
+    validations:
+      required: true
+  - type: input
+    id: date-seen
+    attributes:
+      label: Date seen
+      description: When was this OA or interview question seen?
+      placeholder: Jul 08, 2026
+    validations:
+      required: true
+  - type: input
+    id: source-context
+    attributes:
+      label: Source context
+      description: Public source, candidate report, or anonymized personal experience.
+      placeholder: Candidate report in Discord
+    validations:
+      required: true
+  - type: input
+    id: fastprep-link
+    attributes:
+      label: FastPrep link
+      description: Add the FastPrep practice link if it already exists.
+      placeholder: https://www.fastprep.io/problems/company-question-slug
+    validations:
+      required: false
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I am not submitting confidential screenshots, private recruiter messages, account-only assessment pages, or a full proprietary problem statement.
+          required: true
