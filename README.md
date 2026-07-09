@@ -110,7 +110,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 <div align="right"><samp><a href="#bottom">⬇ jump to bottom</a></samp></div>
 
-| Company | OA Question | Practice (Beta) | Updated Time |
+| Company | OA Question | Practice | Updated Time |
 | --- | --- | --- | --- |
 | Amazon | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | <a href="https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2026 |
 | Amazon | [Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date) | <a href="https://www.fastprep.io/problems/amazon-closest-version-date"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2026 |
