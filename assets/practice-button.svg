@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" role="img" aria-label="Practice on FastPrep">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF8A1E"/>
+      <stop offset="1" stop-color="#F76400"/>
+    </linearGradient>
+  </defs>
+  <rect width="112" height="28" rx="6" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="111" height="27" rx="5.5" fill="none" stroke="#000" stroke-opacity="0.12"/>
+  <path d="M22.5 5 L14 16.4 h5.2 L17.5 23 26 11.6 h-5.2 Z" fill="#fff"/>
+  <text x="65" y="19" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Practice</text>
+</svg>
